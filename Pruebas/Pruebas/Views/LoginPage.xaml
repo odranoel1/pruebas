@@ -9,6 +9,7 @@
             BindingContext="{Binding Login}">
             <StackLayout
                 Padding="10,20">
+                <Label> </Label>
                 <Label 
                     FontAttributes="Bold"
                     FontSize="Large"
